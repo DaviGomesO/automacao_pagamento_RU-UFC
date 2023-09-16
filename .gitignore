@@ -1,0 +1,5 @@
+env/
+.env
+imagens/
+codigo_pix.txt
+qr_code.png
