@@ -18,7 +18,7 @@ MATRICULA='xxxxxx'
 QUANTIDADE_CREDITOS=xx</b>
 </pre>
 4. Execute o código python.
-   - py gerarPagamentoRU.py
+  - py gerarPagamentoRU.py
 
 ### Translate
 # Automacao_pagamento_RU-UFC
