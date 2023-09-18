@@ -1,6 +1,9 @@
 # Automacao_pagamento_RU-UFC
 Essa automação serve para facilitar o fluxo da inserção de créditos do cartão do Restaurante Universitário da Universidade Federal do Ceará.
 
+### Observação:
+Certifique-se de ter o Chrome e o Python instalado em sua máquina.
+
 #### Passos:
 1. Após clonar o projeto, crie o ambiente virtual python, e ative-o para instalar as dependências/bibliotecas do projeto.
   - Criar ambiente virtual: python -m venv nome_do_ambiente;
@@ -14,10 +17,15 @@ Essa automação serve para facilitar o fluxo da inserção de créditos do cart
 MATRICULA='xxxxxx'
 QUANTIDADE_CREDITOS=xx</b>
 </pre>
+4. Execute o código python.
+   - py gerarPagamentoRU.py
 
 ### Translate
 # Automacao_pagamento_RU-UFC
 This automation serves to facilitate the flow of inserting credits into the University Restaurant card at the Federal University of Ceará.
+
+### Observation:
+Make sure you have Chrome and Python installed on your machine.
 
 #### Steps:
 1. After cloning the project, create the python virtual environment, and activate it to install the project's dependencies/libraries.
@@ -31,5 +39,6 @@ This automation serves to facilitate the flow of inserting credits into the Univ
 <b>NUMERO_CARTAO='xxxxxxx'
 MATRICULA='xxxxxx'
 QUANTIDADE_CREDITOS=xx</b>
-```
 </pre>
+4. Run the python code.
+   - py gerarPagamentoRU.py
